@@ -1,4 +1,5 @@
-package sample;
+package kr.nomadlab.spring_test.sample;
 
-public class SampleDAO {
+public interface SampleDAO {
+
 }
